@@ -15,3 +15,4 @@
 
 ### Working with Tags
 - git tag v1.0
+- git tag -a v1.1 -m "Release version 1.1"
