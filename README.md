@@ -12,3 +12,6 @@
 - git branch
 - git checkout -b branchname
 - git push -u origin newfeature
+
+### Working with Tags
+- git tag v1.0
